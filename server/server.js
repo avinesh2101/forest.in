@@ -9,7 +9,7 @@ const app = express();
 
 //db connect 
 // console.log(process.env.MONGODB_URI );
-mongoose.connect( 'mongodb://localhost/mern_ecommerce', {
+mongoose.connect( process.env.MONGODB_URI || 'mongodb://localhost/mern_ecommerce', {
     useNewUrlParser: true,
     useUnifiedTopology: true,
     useCreateIndex: true,
