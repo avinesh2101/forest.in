@@ -1,6 +1,14 @@
 ![Alt Text](https://github.com/avinesh2101/forest.in/blob/main/forest.in.gif)
-# Getting Started with Create React App
 
+### Tech used in this project
+MERN stack is used to build this web app.
+It have two variants one in which i have developed my own backend and the other one in which I am using commerce.js for backend.
+
+
+[Link](https://refreshme.herokuapp.com/).
+
+
+# Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
